@@ -1,0 +1,54 @@
+daten{
+    position: relative;
+   z-index: 1;
+   padding: 30px;
+   border: solid #f00;
+   border-width: 7px 7px 7px 3px;
+}
+
+daten:before {
+content: "";
+   position: absolute;
+   z-index: -1;
+   top: 5px;
+   left: 5px;
+   right: 5px;
+   bottom: 5px;
+   border: 5px solid white;
+   
+}
+
+daten:after {
+content: "";
+   position: absolute;
+   z-index: -1;
+   top: 15px;
+   left: 15px;
+   right: 15px;
+   bottom: 15px;
+   background: rgb(199, 188, 188);
+}
+
+
+
+satz {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+bezeichnung {
+    background-color: rgb(49, 250, 49);
+}
+
+best-nr {
+    background-color: yellow;
+}
+
+menge {
+    background-color: aqua;
+}
+
+div{
+    padding: 8px;
+    margin: 8px
+}

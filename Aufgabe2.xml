@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/css" href="Aufgabe2.css"?>
+<daten>
+            <satz>
+                <bezeichnung>Ingwer</bezeichnung>
+                <best-nr>4710</best-nr>
+                <menge unit="kg">300</menge>
+            </satz>
+            <div></div>
+            <satz>
+                <bezeichnung>Schwarzer Pfeffer</bezeichnung>
+                <best-nr>4713</best-nr>
+                <menge unit="kg">150</menge>
+            </satz>
+            <div></div>
+            <satz>
+                <bezeichnung>Muskatnuss</bezeichnung>
+                <best-nr>4700</best-nr>
+                <menge unit="kg">10</menge>
+            </satz>
+            <div></div>
+            <satz>
+                <bezeichnung>Basilikum</bezeichnung>
+                <best-nr>4701</best-nr>
+                <menge unit="kg">10</menge>
+            </satz>
+            <div></div>
+            <satz>
+                <bezeichnung>Salbei</bezeichnung>
+                <best-nr>4704</best-nr>
+                <menge unit="kg">20</menge>
+            </satz>
+</daten>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/css" href="Aufgabe-1.css"?>
+<daten>
+ <satz>
+ <name>Name</name>
+ <nr>Best-Nr.</nr>
+ <amount>Menge</amount>
+ </satz>
+ <satz>
+ <bezeichnung>
+ <span>
+ Ingwer
+ </span>
+ </bezeichnung>
+ <best-nr>
+ <span>
+ 4710
+ </span>
+ </best-nr>
+ <menge unit="kg">
+ <span>
+ 300
+ </span>
+ </menge>
+ </satz>
+ <satz>
+ <bezeichnung>
+ <span>
+ Schwarzer Pfeffer
+ </span>
+ </bezeichnung>
+ <best-nr>
+ <span>
+ 4713
+  </span>
+ </best-nr>
+ <menge unit="kg">
+  <span>
+ 150
+  </span>
+ </menge>
+ </satz>
+ <satz>
+ <bezeichnung>
+  <span>
+ Muskatnuss
+  </span>
+ </bezeichnung>
+ <best-nr>
+  <span>
+ 4700
+  </span>
+ </best-nr>
+ <menge unit="kg">
+  <span>
+ 10
+  </span>
+ </menge>
+ </satz>
+ <satz>
+ <bezeichnung>
+  <span>
+ Basilikum
+ </span>
+ </bezeichnung>
+  <best-nr>
+   <span>
+  4701
+  </span>
+  </best-nr>
+ <menge unit="kg">
+  <span>
+ 10
+ </span>
+ </menge>
+ </satz>
+ <satz>
+ <bezeichnung>
+  <span>
+ Salbei
+ </span>
+ </bezeichnung>
+ <best-nr>
+  <span>
+ 4704
+ </span>
+ </best-nr>
+ <menge unit="kg">
+  <span>
+ 20
+ </span>
+ </menge>
+ </satz>
+</daten> 

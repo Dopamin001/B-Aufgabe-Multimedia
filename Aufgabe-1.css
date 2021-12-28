@@ -1,0 +1,21 @@
+daten{
+    background-color: rgb(199, 187, 187);
+}
+
+satz {
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: 8rem 4rem 2rem
+}
+
+bezeichnung > span{
+    background-color: rgb(49, 250, 49);
+}
+
+best-nr > span {
+    background-color: yellow;
+}
+
+menge > span {
+    background-color: aqua;
+}
